@@ -7,4 +7,4 @@
 ### Tools
 <img src="https://img.shields.io/badge/Github-181717?logo=GitHub"> <img src="https://img.shields.io/badge/Swiper-6332F6?logo=Swiper"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=Figma"> <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=Adobe%20Photoshop">
 
-#### UI/UX 개선 / 인터렉티브 웹 ❤️
+#### UX 개선 / 인터렉티브 웹 ❤️
